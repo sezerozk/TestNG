@@ -1,0 +1,5 @@
+ALERT ISLEMLERI;
+Eger bir sayfada javaScript ile olusturulmus bir alert varsa acilan alert
+penceresini kapatmadan sayfada baska bir islem yapilamaz. Ayrica axilan pencereyi
+inspect ile incelemek de mumkun olmaz. Ancak alert html ile olusturulmus
+olursa sayfada baskaca islemler yapmak da mumkun olur.
